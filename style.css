@@ -1,0 +1,26 @@
+.hh{
+    height: 150px;
+    width: 150px;
+    
+}
+.nn{
+    height: 180px;
+    width: 180px;
+    
+
+}
+.mm{
+    height: 180px;
+    width: 180px; 
+    
+}
+.card{
+    width: fit-content;
+    background-color: #f9fbfe ;
+}
+.bb{
+    color:#1f2933 ;
+}
+.headering{
+    color: #323f4b;
+}
